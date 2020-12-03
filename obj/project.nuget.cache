@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "sFi1Z0vsOM82DFyh0nRTjDrqeUWKhtSjkROcrZ15MC/t10MUjgG2afCvE1GSvIhla3r7HdS4xPs1vfSqPo508w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\NicolasGabrielLimaCa\\Desktop\\Progamação Senai\\APIZADA\\APIPETS\\APIPETS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NicolasGabrielLimaCa\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\NicolasGabrielLimaCa\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\NicolasGabrielLimaCa\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
+    "C:\\Users\\NicolasGabrielLimaCa\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\NicolasGabrielLimaCa\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\NicolasGabrielLimaCa\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\NicolasGabrielLimaCa\\.nuget\\packages\\system.data.sqlclient\\4.8.2\\system.data.sqlclient.4.8.2.nupkg.sha512",
+    "C:\\Users\\NicolasGabrielLimaCa\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\NicolasGabrielLimaCa\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
